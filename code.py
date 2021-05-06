@@ -1,1 +1,2 @@
 #Without GUI
+import pyautogui
