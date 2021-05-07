@@ -10,3 +10,4 @@ import pyautogui
 import tkinter as tk
 
 root= tk.Tk()
+root.title('Sc taker')
