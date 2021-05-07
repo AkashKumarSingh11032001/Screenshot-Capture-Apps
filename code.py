@@ -17,3 +17,4 @@ canvas1.pack()
 
 def myScreenshot():
     myScreenshot = pyautogui.screenshot()
+    myScreenshot.save(r'A:\Project\Screenshot-Capture-Apps\example1.png')
