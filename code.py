@@ -22,3 +22,4 @@ def myScreenshot():
 myButton = tk.Button(text='Take Screenshot', command=myScreenshot, bg='green',fg='white',font= 15)
 canvas1.create_window(150, 150, window=myButton)
 
+root.mainloop()
