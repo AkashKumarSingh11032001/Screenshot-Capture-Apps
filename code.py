@@ -6,3 +6,4 @@ screenShot_1.save(r'A:\Project\Screenshot-Capture-Apps\example.png')
 
 
 #With GUI
+import pyautogui
